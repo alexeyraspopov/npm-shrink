@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var shrink = require('./npm-shrink');
 var inspect = require('util').inspect;
 
