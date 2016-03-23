@@ -1,6 +1,6 @@
 {
   "name": "npm-shrink",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Find unreliable dependencies of your package",
   "scripts": {
     "test": "node cli.js babel-core@5.8.34"
