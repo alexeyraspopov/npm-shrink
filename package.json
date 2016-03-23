@@ -10,6 +10,7 @@
   },
   "preferGlobal": true,
   "author": "Alexey Raspopov",
+  "repository": "alexeyraspopov/npm-shrink",
   "license": "MIT",
   "main": "npm-shrink.js",
   "dependencies": {
